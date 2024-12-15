@@ -64,5 +64,5 @@ Este proyecto fue desarrollado en **Python**, utilizando las siguientes librerí
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git https://github.com/lmeneses7/Prediccion_Ingresos
+   cd Prediccion_Ingresos
